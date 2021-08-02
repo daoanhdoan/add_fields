@@ -1,0 +1,3 @@
+add_fields.field_storage_config_add:
+  class: \Drupal\Core\Menu\LocalActionDefault
+  deriver: \Drupal\add_fields\Plugin\Derivative\AddFieldsLocalAction
