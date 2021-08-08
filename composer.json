@@ -2,8 +2,11 @@
     "name" : "daoanhdoan/add_fields",
     "description": "Entity Fields",
     "type" : "drupal-custom-module",
-    "license": "GPL-2.0",
+    "license": "GPL-2.0+",
     "extra": {
         "installer-name": "add_fields"
+    },
+    "require": {
+        
     }
 }
