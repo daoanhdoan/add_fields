@@ -6,7 +6,5 @@
     "extra": {
         "installer-name": "add_fields"
     },
-    "require": {
-        
-    }
+    "require": {}
 }
